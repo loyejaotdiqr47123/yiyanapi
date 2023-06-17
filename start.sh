@@ -1,2 +1,2 @@
 #!/bin/bash
-./node/node index.js
+./node/bin/node index.js
